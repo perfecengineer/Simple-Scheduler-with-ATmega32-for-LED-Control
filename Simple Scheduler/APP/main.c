@@ -1,8 +1,6 @@
 /*
- * challenge.c
- *
- * Created: 12/7/2013 9:08:25 PM
- * Author: Mohamed Tarek
+ * Created on: 19/12/2023:08:25 PM
+ * Author: Mohamed Ashour Hassan
  */
 #include "../HAL/LED/led_interface.h"
 #include "../SERVICE/RTO/rto_interface.h"
